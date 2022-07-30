@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Bergi")(type "KiCad")(uri "D:/workspace/kicad_6/userLib/footprints/Bergi.pretty")(options "")(descr ""))
+)
