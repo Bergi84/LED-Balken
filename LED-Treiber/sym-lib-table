@@ -1,3 +1,3 @@
 (sym_lib_table
-  (lib (name "Bergi")(type "KiCad")(uri "D:/workspace/kicad_6/userLib/symbols/Bergi.kicad_sym")(options "")(descr ""))
+  (lib (name "Bergi")(type "KiCad")(uri "D:/workspace/kicad_6/bergiKicadLib/symbols/Bergi.kicad_sym")(options "")(descr ""))
 )
